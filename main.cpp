@@ -21,4 +21,5 @@ int main() {
     car first_car;
     cout << typeid(first_car).name() << '\n';
     cout << sizeof(first_car);
+    cout << "be";
 }
